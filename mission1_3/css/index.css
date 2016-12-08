@@ -3,10 +3,10 @@
 *{ margin:0; padding:0; font-family:"微软雅黑";}
 body{ padding:20px;}
 img{ width:80px; height:80px;}
-.main-body{ background-color:#eee; border:1px solid #999; padding:20px; margin:0 auto; min-height:518px;}
+.main-body{ background-color:#eee; border:1px solid #999; padding:20px; margin:0 auto; min-height:518px; position:relative;}
 .team,.content,.personal{ border:1px solid #999; background-color:#FFFFFF;}
-.team{ height:80px; width:198px; padding:20px; position:absolute; left:40px;}
+.team{ height:80px; width:198px; padding:20px; position:absolute; left:20px;}
 .team img{ float:left; margin-right:30px;}
 .content{margin:0 130px 0 250px; }
-.personal{ width:118px; border:1px solid #999999; position:absolute; right:40px; top:40px;}
+.personal{ width:118px; border:1px solid #999999; position:absolute; right:20px; top:20px;}
 .personal li{ list-style:none; padding:20px;}
